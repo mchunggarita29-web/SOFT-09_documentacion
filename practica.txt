@@ -1,4 +1,4 @@
-Este es un archivo de ejemplo para la práctica de control de versiones.
+Este archivo fue modificado desde main.
 Se agrega una segunda línea para demostrar el seguimiento de cambios.
 Línea editada desde main
 Línea editada desde feature/conflicto
