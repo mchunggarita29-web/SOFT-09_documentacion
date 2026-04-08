@@ -1,5 +1,6 @@
 Versión modificada directamente en main
-Este archivo fue modificado desde la rama feature/conflicto2
+Versión desde la rama feature/conflicto3
+
 
 Se agrega una segunda línea para demostrar el seguimiento de cambios.
 Línea editada desde main
