@@ -1,1 +1,2 @@
 Este es un archivo de ejemplo para la práctica de control de versiones.
+Se agrega una segunda línea para demostrar el seguimiento de cambios.
