@@ -1,0 +1,13 @@
+name: CI Básico
+on:
+  push:
+    branches: [main]
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Listar archivos del repositorio
+        run: ls -la
+      - name: Mostrar contenido del README
+        run: cat README.md
